@@ -1,3 +1,15 @@
+.header {
+    color: red;
+}
+
+.leftfoto{
+float:left;
+margin: 4px 10px 2px 0px;
+border:1px solid #CCC;
+padding:6px;
+}
+
+
 .navigation{
     float: right;
     height: 100%;
